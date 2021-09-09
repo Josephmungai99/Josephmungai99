@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mungai
+- 👋 Hi, I’m Cronos254
 - 👀 I’m interested in web and game development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any web or game development project
