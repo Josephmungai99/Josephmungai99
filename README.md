@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Mungai
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning python, HTML, CSS, JAVASCRIPT, Bootstarp, ReactJS, pHp, Mango Ds, Nodejs, Git, VueJs 
+- 👀 I’m interested in web and game development and ethical hacking 
+- 🌱 I’m currently learning python, HTML, CSS, JAVASCRIPT, Bootstarp, ReactJS, pHp, Mango Ds, Nodejs, Git, VueJs, Linux
 - 💞️ I’m looking to collaborate on any web or game development project
 - 📫 How to reach me ...
 
